@@ -1,4 +1,5 @@
 🌍 AI Travel Itinerary Planner
+
 A simple Python CLI tool that generates a custom travel itinerary and provides real-time weather information for your origin and destination cities — powered by SheCodes APIs.
 
 ✨ Features
