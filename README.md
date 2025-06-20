@@ -3,9 +3,13 @@ A simple Python CLI tool that generates a custom travel itinerary and provides r
 
 ✨ Features
 🧠 AI-generated travel itinerary
+
 🌦️ Real-time weather conditions at both origin and destination
+
 🌐 Supports international road trips
+
 💶 Cost estimates in local currency and Euro equivalent
+
 📦 Beautiful CLI output using the rich library
 
 📸 Preview
@@ -16,8 +20,11 @@ A simple Python CLI tool that generates a custom travel itinerary and provides r
 
 💡 Built With
 Python 3.10+
+
 requests
+
 rich for pretty CLI output
+
 SheCodes Weather & AI APIs
 
 🙋‍♀️ Author
