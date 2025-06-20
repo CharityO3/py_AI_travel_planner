@@ -33,7 +33,7 @@ SheCodes Weather & AI APIs
 
 🙋‍♀️ Author
 
-Created with 💜 by <a href="https://charityorhoridiohwo.com" target="_blank">Charity Orhoridiohwo</a>
+Created with 💜 by [Charity Orhoridiohwo](https://charityorhoridiohwo.com)
 
 
 
