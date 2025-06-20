@@ -2,6 +2,7 @@
 A simple Python CLI tool that generates a custom travel itinerary and provides real-time weather information for your origin and destination cities — powered by SheCodes APIs.
 
 ✨ Features
+
 🧠 AI-generated travel itinerary
 
 🌦️ Real-time weather conditions at both origin and destination
@@ -19,6 +20,7 @@ A simple Python CLI tool that generates a custom travel itinerary and provides r
 
 
 💡 Built With
+
 Python 3.10+
 
 requests
