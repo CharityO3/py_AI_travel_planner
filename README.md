@@ -30,7 +30,9 @@ rich for pretty CLI output
 
 SheCodes Weather & AI APIs
 
+
 🙋‍♀️ Author
+
 Created with 💜 by Charity Orhoridiohwo
 
 
